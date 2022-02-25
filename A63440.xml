@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect relation of the apprehension of 5 fryers, one pilgrim, and three souldiers, who were all bound for Ireland but were stayd and taken at S. Ives, in the county of Cornwall, by the vice-admirall Master Basset : and from thence brought up to London with the master of their ship and committed to Newgate on Friday the ninth of April, 1642 : with the severall names of the prisoners, and an order of Parliament concerning the same.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63440</idno>
+            <idno type="STC">Wing T2550</idno>
+            <idno type="STC">ESTC R8592</idno>
+            <idno type="EEBO-CITATION">12589533</idno>
+            <idno type="OCLC">ocm 12589533</idno>
+            <idno type="VID">63847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63440)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 251:E142, no 17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect relation of the apprehension of 5 fryers, one pilgrim, and three souldiers, who were all bound for Ireland but were stayd and taken at S. Ives, in the county of Cornwall, by the vice-admirall Master Basset : and from thence brought up to London with the master of their ship and committed to Newgate on Friday the ninth of April, 1642 : with the severall names of the prisoners, and an order of Parliament concerning the same.</title>
+               </titleStmt>
+               <extent>[2], 6 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63847:1" rendition="simple:additions"/>
+            <p>A True and perfect RELATION Of the Apprehenſion of 5. Fryers, one Pilgrim and three Souldiers; who were all bound for <hi>Jreland</hi> but were ſtayd and taken at S. <hi>Ives,</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Cornwall,</hi> by the Vice-Admirall Maſter <hi>Baſset,</hi> and from thence brought up to <hi>London,</hi> with the Maſter of their Ship, and committed to <hi>New-gate</hi> on Friday the ninth of <hi>Aprill,</hi> 1642.</p>
+            <p>With the ſeverall names of the Priſoners, and an Order of Parliament concerning the ſame.</p>
+            <p>
+               <hi>Henry Elſinge, Cler. D. Parli.</hi>
+            </p>
+            <figure>
+               <figDesc>woodcut of a ship</figDesc>
+            </figure>
+            <p>London Printed for John Wright, 1642.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:63847:2"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of a ship</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:63847:2"/>
+            <head>A true and perfect Relation of the Apprehenſion of five Fryers, one Pilgrim, and three Souldiers, <hi>&amp;c.</hi>
+            </head>
+            <p>NOt to trouble my Reader with any tedi<g ref="char:EOLhyphen"/>ous preamble to little or no purpoſe, but to come readily and truly to the matter in hand, which being ſuch an extraordi<g ref="char:EOLhyphen"/>nary paſſage, of Gods good providence towards this Land and Nation; in preſerving us from the daily Plots and wicked machinations of his and our adverſaries. It is not fit it ſhould lye al together ſmother'd up in the pit of oblivion; but be divulg'd and ſpread abroad in each cor<g ref="char:EOLhyphen"/>ner of this Kingdome, that ſo all true hearted Proteſtants may know, and knowing, may un<g ref="char:EOLhyphen"/>derſtand how infinitely they are ingaged to bleſſe God for ſuch wonderfull deliverances, and with <hi>David</hi> extoll his Name, from one ge<g ref="char:EOLhyphen"/>neration to another.</p>
+            <p>It were needleſſe to ſtand upon particulars in a poynt ſo plaine and obvious to the eye of every faithfull Proteſtant.</p>
+            <p>If you aske who's our adverſaries, the queſti<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:63847:3"/>is ſoone anſwered, who? But the Jeſuites, Fryers, Papiſts Prieſts, and others of the wicked adherents to the ſect of <hi>Rome.</hi>
+            </p>
+            <p>If you aske how this is manifeſted, daily ex<g ref="char:EOLhyphen"/>perience proves it; how many helliſh Plots and Conſpiracies hath this infernall tribe hatcht a<g ref="char:EOLhyphen"/>gainſt theſe his Majeſties Kingdomes of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> ſince the beginning of re<g ref="char:EOLhyphen"/>formation? When the Illuſtrious ſplendor of the Goſpell firſt began to ſhine in our Brittiſh Horizon to this preſent, poore afflicted <hi>Ireland</hi> can ſadly witneſſe the truth hereof, whoſe de<g ref="char:EOLhyphen"/>plorable condition at this time, by the cruell inhumanity and barbarous actions of the blood thirſty Papiſts, againſt the faithfull Profeſſors of the Proteſtant Religion in that Kingdome, would extract teares from a heart of flint, to heare that ſuch tygers ſhould be coucht under the ſhapes of men, but the particulars of this their tyranny, is well knowne to all men.</p>
+            <p>I ſhall not therefore inſiſt upon that or any other diſcourſe, but come briefely to this laſt project, hatch by their grand-father the Devill, bleſt by their holy father the Pope, put in pra<g ref="char:EOLhyphen"/>ctice by his children, the Fryars and Jeſuites; but diſcovered by God, whoſe never ſlumbring eye continually ſees, and ſeeing, derides all ſuch fooliſh combinations againſt his Church and people, and now brought to light, that all true Chriſtians and ſubjects may bee thank<g ref="char:EOLhyphen"/>full
+<pb facs="tcp:63847:3"/>for the ſame, and praiſe the great Name of the Lord for ever and ever.</p>
+            <p>In March laſt 1642, a certaine ſhip under the conduct of <hi>Patrick Sym<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> who was Maſter thereof, ſhould have tranſported it into <hi>Ireland,</hi> with theſe paſſengers, whoſe names are as fol<g ref="char:EOLhyphen"/>loweth, <hi>Thomas Faſtell, Teage Barr, Patrick Carr, Richard Birke, Francis Cauthon,</hi> Fryars; <hi>Malathyn Gaggon</hi> Pilgrim; <hi>Thomas Moham, Bryant Mackall Greahall, Daniel Brianon</hi> Souldiers.</p>
+            <p>This goodly company being minded to viſit their traitorous Confederates in <hi>Ireland,</hi> upon what enterpriſe is not yet knowne, untill the wiſedome of the Parliament ſhall further exa<g ref="char:EOLhyphen"/>mine the buſineſſe; but being greatly ſuſpected, and not without good cauſe, both ſhippe and paſſengers were ſtayd in their journey at Saint <hi>Ives</hi> in <hi>Cornwall,</hi> by the Vice-Admîrall <hi>M. Baſset,</hi> and information preſently given to the Parlia<g ref="char:EOLhyphen"/>ment, who immediatly made an Order, dire<g ref="char:EOLhyphen"/>cted to the Sheriffes of each County, to pro<g ref="char:EOLhyphen"/>vide ſtron guards for their ſafe conduct to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> which was accordingly performed, and they committed to New-gate on Friday the 9 of Aprill 1642, where now they remaine expe<g ref="char:EOLhyphen"/>cting the pleaſure of that Honorable Aſſembly for their further tryall.</p>
+            <p>A true Coppy of which order is here inſer<g ref="char:EOLhyphen"/>ted.</p>
+            <div type="order">
+               <pb n="5" facs="tcp:63847:4"/>
+               <opener>
+                  <dateline>
+                     <date>
+                        <hi>Die Veneris</hi> 4 <hi>die Martii</hi> 1641.</date>
+                  </dateline>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg>T is this day ordered by the Commons Houſe of Parlia<g ref="char:EOLhyphen"/>ment, that the Maſter of the ſhip, and the five Fryars, a Pil<g ref="char:EOLhyphen"/>grim, three Souldiers, and what others priſoners ſoever ſhall bee delivered unto him by the Vice-Admirall or his deputy, were bound for <hi>Ireland,</hi> and taken at St. <hi>I<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ves</hi> in the County of <hi>Cornwall,</hi> by the ſaid Vice-Admirall Maſter <hi>Baſset,</hi> bee forthwith ſent for up, and the ſeverall Sheriffes of every County (through which they are to paſſe) are hereby required to provide ſtrong and ſufficient guardes for the conducting of the ſaid perſons in ſafe cuſtody through their ſeverall Counties
+<pb n="6" facs="tcp:63847:4"/>to <hi>London,</hi> And the Sheriffe of <hi>Cornwall</hi> ordered to receive the ſaid priſoners at the Towne of <hi>Redruth,</hi> where they now are.</p>
+               <closer>
+                  <signed>H. Elſing Cler. Parl.</signed>
+               </closer>
+               <trailer>To the Sheriffes of <hi>Cornwall</hi> to all other Sheriffes of Counties through which they ſhall paſſe.</trailer>
+            </div>
+            <div type="list_of_prisoners">
+               <head>The names of the priſoners.</head>
+               <list>
+                  <item>
+                     <hi>Patricke Symot,</hi> maſter of the ſhip.</item>
+                  <item>
+                     <hi>Thomas Faſtell,</hi> Fryars.</item>
+                  <item>
+                     <hi>Theage Barr,</hi> Fryars.</item>
+                  <item>
+                     <hi>Patrick Carr,</hi> Fryars.</item>
+                  <item>
+                     <hi>Richard Birke,</hi> Fryars.</item>
+                  <item>
+                     <hi>Francis Ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>thon,</hi> Fryars.</item>
+                  <item>
+                     <hi>Malathyn Gaggon,</hi> Pilgrim.</item>
+                  <item>
+                     <hi>Thomas Moham,</hi> Souldiers.</item>
+                  <item>
+                     <hi>Bryant Mackall Greahall,</hi> Souldiers.</item>
+                  <item>
+                     <hi>Daniel Brianon,</hi> Souldiers.</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
